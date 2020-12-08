@@ -1,0 +1,144 @@
+Task,Start,Finish,Dimension,Resource
+Results of Task,3/17/2021,3/31/2021,People,Agile DevOps Culture
+Establish and agree upon Agile standards/framework,1/1/2021,1/15/2021,People,Agile DevOps Culture
+Communicate Agile structure to business groups,1/16/2021,1/30/2021,People,Agile DevOps Culture
+Select proper tooling,1/31/2021,2/14/2021,People,Agile DevOps Culture
+Results of Task,3/17/2021,3/31/2021,People,Organizational Design and Operating Model
+Refine analytic data use operating model,1/1/2021,1/15/2021,People,Organizational Design and Operating Model
+Define analytic persona’s and use cases,1/16/2021,1/30/2021,People,Organizational Design and Operating Model
+Define operational data use operating model,1/31/2021,2/14/2021,People,Organizational Design and Operating Model
+Define operational persona’s and use cases ,2/15/2021,3/1/2021,People,Organizational Design and Operating Model
+Define standard ,3/2/2021,3/16/2021,People,Organizational Design and Operating Model
+Results of Task,3/17/2021,3/31/2021,Process,"Delivery Methodology-Agile, RAD, DevOps, Left Testing, TDD, Low-Code"
+"ID appropriate use case requirements for applying 
+methodology (i.e. what are expectations from the 
+business, what are deliverable expectations etc.)",4/1/2021,4/15/2021,Process,"Delivery Methodology-Agile, RAD, DevOps, Left Testing, TDD, Low-Code"
+"Create template for data use stories (i.e. data sets, data presentation, data analysis, Data validation, advanced analytic stories)",4/16/2021,4/30/2021,Process,"Delivery Methodology-Agile, RAD, DevOps, Left Testing, TDD, Low-Code"
+Results of Task,3/17/2021,3/31/2021,Process,Product Mgmt Evolution-Product Advisory Council
+Identify product advisory council attendees,3/18/2021,4/1/2021,Process,Product Mgmt Evolution-Product Advisory Council
+Create governance model/methodology,3/19/2021,4/2/2021,Process,Product Mgmt Evolution-Product Advisory Council
+Results of Task,3/17/2021,3/31/2021,Process,Expansion of Managed Service Arrangements
+ID all candidate roles and process to keep bench as opposed to OJT,4/1/2021,4/15/2021,Process,Expansion of Managed Service Arrangements
+ID incentive and disincentive components to manage contract,4/16/2021,4/30/2021,Process,Expansion of Managed Service Arrangements
+ID candidate partners for various work components,5/1/2021,5/15/2021,Process,Expansion of Managed Service Arrangements
+Create methodology to manage bid process and selection – partner with procurement,5/16/2021,5/30/2021,Process,Expansion of Managed Service Arrangements
+Results of task,4/1/2021,4/15/2021,Process,"DevOps, DataOps, MLOps"
+Define scope of project,4/16/2021,6/30/2021,Process,"DevOps, DataOps, MLOps"
+Results of task,9/16/2021,9/30/2021,Process,Expansion of Self-Service Models
+ID tools for self-service ties to tools/tech,7/1/2021,7/15/2021,Process,Expansion of Self-Service Models
+Determine extent of centrally managed policy engines,7/16/2021,7/30/2021,Process,Expansion of Self-Service Models
+What multi-tenancy restrictions should be established,7/31/2021,8/14/2021,Process,Expansion of Self-Service Models
+Access control – Tie to IT IAM strategy,8/15/2021,8/29/2021,Process,Expansion of Self-Service Models
+"Evaluate security, PHI, access restrictions",8/30/2021,9/13/2021,Process,Expansion of Self-Service Models
+Results of task,12/17/2021,12/31/2021,Process,Financial Transparency Process Dev
+Publish product and service catalog outlining initial build/implementation of the product or service as well as the ongoing costs,10/1/2021,12/31/2021,Process,Financial Transparency Process Dev
+Results of task,12/17/2021,12/31/2021,Technology,Decouple compute/storage
+ID standard tools for self-service,1/1/2021,1/26/2021,Technology,Decouple compute/storage
+Create governance and methodology use cases,1/27/2021,2/21/2021,Technology,Decouple compute/storage
+Create training protocol for tool consumption,2/22/2021,3/19/2021,Technology,Decouple compute/storage
+"Database/System design for persistent data to be stored on remote, network attached storage",3/20/2021,4/14/2021,Technology,Decouple compute/storage
+Identify systems requirements,4/15/2021,5/10/2021,Technology,Decouple compute/storage
+Technology/vendor selection,5/11/2021,6/5/2021,Technology,Decouple compute/storage
+Migration effort to be considered; layout strategy,6/6/2021,7/1/2021,Technology,Decouple compute/storage
+Downstream efforts - existing processes to migrate; how to enable a seamless transition; which approach to use - coexist or turn off/turn on,7/2/2021,7/27/2021,Technology,Decouple compute/storage
+"Enable S3 as primary storage, move away from other storage solutions and determine config",7/28/2021,8/22/2021,Technology,Decouple compute/storage
+Establish rules/processes to ensure S3 is the primary storage solution,8/23/2021,9/17/2021,Technology,Decouple compute/storage
+Recompilation and redeployment of jobs is required,9/18/2021,10/13/2021,Technology,Decouple compute/storage
+Stand up non-prod two node cluster job/script execution,10/14/2021,11/8/2021,Technology,Decouple compute/storage
+Decommission version 5 by May 21 2021,11/9/2021,12/31/2021,Technology,Decouple compute/storage
+Results of task,12/17/2021,12/31/2021,Technology,Self-Service Tools
+Identify self-service needs/requirements for each group ,4/1/2021,4/15/2021,Technology,Self-Service Tools
+Identify the right tool for the right purpose,4/16/2021,5/31/2021,Technology,Self-Service Tools
+Learning and creating guidelines on how to use new tools,6/1/2021,7/1/2021,Technology,Self-Service Tools
+Estimate adoption rate,7/2/2021,8/1/2021,Technology,Self-Service Tools
+Gauge time to ramp-up,8/2/2021,9/1/2021,Technology,Self-Service Tools
+Evaluate if migration from existing tools to new tools is required,9/2/2021,12/31/2021,Technology,Self-Service Tools
+Results of task,9/16/2021,9/30/2021,Technology,AI/ML Infrastructure/tools
+Identify compatible tooling,7/1/2021,7/15/2021,Technology,AI/ML Infrastructure/tools
+Determine requirements specific for each business group,7/16/2021,7/30/2021,Technology,AI/ML Infrastructure/tools
+Identify VDI-based security issues for additional R/Python libraries,7/31/2021,8/14/2021,Technology,AI/ML Infrastructure/tools
+Document and communicate procedure to add new ML features/libraries to remote environments,8/15/2021,8/29/2021,Technology,AI/ML Infrastructure/tools
+Estimate value of paid tools vs free libraries,8/30/2021,9/13/2021,Technology,AI/ML Infrastructure/tools
+Determine if automated ML tools are necessary (Datarobot vs Azure ML),9/14/2021,9/28/2021,Technology,AI/ML Infrastructure/tools
+Gauge level of adoption,9/29/2021,9/30/2021,Technology,AI/ML Infrastructure/tools
+Document FAQs and consider questions specific to each business group,10/1/2021,10/15/2021,Technology,AI/ML Infrastructure/tools
+Results of task,9/16/2021,9/30/2021,Technology,Resilient/Durable
+"Determine scope – DR, HA, Extent of insight and notification needs",7/1/2021,7/11/2021,Technology,Resilient/Durable
+Establish continuous monitoring needs aligned with DevOps,7/12/2021,7/22/2021,Technology,Resilient/Durable
+Resiliency testing approach,7/23/2021,8/2/2021,Technology,Resilient/Durable
+Monitoring tools,8/3/2021,8/13/2021,Technology,Resilient/Durable
+Incident response communication protocol (ties to governance and operating model),8/14/2021,8/24/2021,Technology,Resilient/Durable
+Identify compatible tooling/technology,8/25/2021,9/4/2021,Technology,Resilient/Durable
+Consider location/region-based connection practices,9/5/2021,9/15/2021,Technology,Resilient/Durable
+"Consider multiple physical data center connection locations for resiliency to connectivity failures due to fiber cut, device failure or complete location failure",9/16/2021,9/26/2021,Technology,Resilient/Durable
+Determine if dynamically routed and active connections vs. statically routed for load balancing and failover,9/27/2021,10/7/2021,Technology,Resilient/Durable
+Results of task,12/17/2021,12/31/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Identify compatible tooling,10/1/2021,10/11/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Determine instance requirements specific for each business group,10/12/2021,10/22/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Launch instances and document keys/passwords,10/23/2021,11/2/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Communicate instance configurations and setup notes to each group,11/3/2021,11/13/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Estimate level of adoption,11/14/2021,11/24/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Predict and document FAQs,11/25/2021,12/5/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Document how to use Microsoft Remote Desktop Apps for Mac users,12/6/2021,12/16/2021,Technology,Elastic Infrastructure/Dynamic Compute
+"Install supporting software (R, Python, Firefox etc.)",12/17/2021,12/23/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Identify an owner/manager of compute elasticity/infrastructure operations,12/24/2021,12/27/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Identify rules of engagement and governance for when the process is live,12/28/2021,12/31/2021,Technology,Elastic Infrastructure/Dynamic Compute
+Results of task,12/17/2021,12/31/2021,Technology,Event Streaming
+Prioritize data pipelines (tie to Data COE),1/1/2021,2/15/2021,Technology,Event Streaming
+Pilot analytics in data pipeline (tie to NextBlue AA COE),2/16/2021,3/18/2021,Technology,Event Streaming
+Define event streaming hub approach (i.e. people process tech),3/19/2021,4/18/2021,Technology,Event Streaming
+"Determine appropriate/compatible event streaming tools (Apache Kafka, Hazelcast Jet etc.)",4/19/2021,5/19/2021,Technology,Event Streaming
+Determine streaming rate requirements specific to each business group,5/20/2021,6/19/2021,Technology,Event Streaming
+Map out the data flow/data architecture and associated patterns,6/20/2021,7/20/2021,Technology,Event Streaming
+Identify who will do the publishing framework,7/21/2021,8/20/2021,Technology,Event Streaming
+Deploy and document,8/21/2021,9/20/2021,Technology,Event Streaming
+There are dependencies on infrastructure prior to putting this in place,9/21/2021,12/31/2021,Technology,Event Streaming
+Results of task,12/17/2021,12/31/2021,Technology,Microservices
+Define tools/tech and associated dependencies,10/1/2021,10/15/2021,Technology,Microservices
+Align with cloud COE,10/16/2021,10/24/2021,Technology,Microservices
+Establish development guidelines,10/25/2021,11/2/2021,Technology,Microservices
+Pilot?,11/3/2021,11/11/2021,Technology,Microservices
+Tie to governance and operating model – when to use how to use etc.,11/12/2021,11/20/2021,Technology,Microservices
+Determine which tasks will be microservices,11/21/2021,11/29/2021,Technology,Microservices
+Determine tools to run/containerize microservices,11/30/2021,12/8/2021,Technology,Microservices
+"Select a microservice deployment strategy (Service Instance per Host, Multiple Service Instances per Host, Service Instance per Virtual Machine etc.)",12/9/2021,12/17/2021,Technology,Microservices
+"Determine if you need a cluster manager (Kubernetes, Marathon etc.)",12/18/2021,12/26/2021,Technology,Microservices
+Identify enablement approach,12/27/2021,12/31/2021,Technology,Microservices
+Results of task,12/17/2021,12/31/2021,Technology - Date TBD,Containerization 
+Define tools/tech and associated dependencies,1/1/2021,1/31/2021,Technology - Date TBD,Containerization 
+Align with cloud COE,2/1/2021,3/3/2021,Technology - Date TBD,Containerization 
+Establish development guidelines,3/4/2021,4/3/2021,Technology - Date TBD,Containerization 
+Pilot?,4/4/2021,5/4/2021,Technology - Date TBD,Containerization 
+Tie to governance and operating model – when to use how to use etc.,5/5/2021,6/4/2021,Technology - Date TBD,Containerization 
+Determine whether to containerize existing legacy application without refactoring into microservices,6/5/2021,7/5/2021,Technology - Date TBD,Containerization 
+Identify barriers between security and devops,7/6/2021,8/5/2021,Technology - Date TBD,Containerization 
+Determine drawbacks: such as container infrastructure is not as mature or secure as the infrastructure for VMs (containers share the kernel of the host OS with one another),8/6/2021,12/31/2021,Technology - Date TBD,Containerization 
+Results of task,12/17/2021,12/31/2021,Technology - Date TBD,"Hybrid Cloud Governance, Security and UX, Data Arch, Data Quality Mgmt"
+Identify a back-end physical infrastructure to enable digital tools,1/1/2021,3/2/2021,Technology - Date TBD,"Hybrid Cloud Governance, Security and UX, Data Arch, Data Quality Mgmt"
+Evaluate a hybrid cloud strategy (with an eye for the worker UX),3/3/2021,5/2/2021,Technology - Date TBD,"Hybrid Cloud Governance, Security and UX, Data Arch, Data Quality Mgmt"
+Evaluate existing support services for the workplace,5/3/2021,7/2/2021,Technology - Date TBD,"Hybrid Cloud Governance, Security and UX, Data Arch, Data Quality Mgmt"
+"Implement technology for a real-time, 360 view of the UX",7/3/2021,12/31/2021,Technology - Date TBD,"Hybrid Cloud Governance, Security and UX, Data Arch, Data Quality Mgmt"
+Results of task,12/17/2021,12/31/2021,Technology - Date TBD,Enterprise Orchestration
+"Orchestration and management of services, applications and data flow",1/1/2021,1/31/2021,Technology - Date TBD,Enterprise Orchestration
+Automation of business processes,2/1/2021,3/3/2021,Technology - Date TBD,Enterprise Orchestration
+Establishment of federated security and Single Sign-On,3/4/2021,4/3/2021,Technology - Date TBD,Enterprise Orchestration
+System logging and monitoring,4/4/2021,5/4/2021,Technology - Date TBD,Enterprise Orchestration
+"Data analysis, reporting and predictions",5/5/2021,6/4/2021,Technology - Date TBD,Enterprise Orchestration
+Monitoring of mobile and IoT devices,6/5/2021,7/5/2021,Technology - Date TBD,Enterprise Orchestration
+Implementation of Big Data solutions,7/6/2021,8/5/2021,Technology - Date TBD,Enterprise Orchestration
+Centralized (mobile ready) web solutions for clients and employees,8/6/2021,9/5/2021,Technology - Date TBD,Enterprise Orchestration
+Scalability and high-load support,9/6/2021,10/6/2021,Technology - Date TBD,Enterprise Orchestration
+SaaS and multi-tenancy support,10/7/2021,11/6/2021,Technology - Date TBD,Enterprise Orchestration
+Centralized control of infrastructure management etc.,11/7/2021,12/31/2021,Technology - Date TBD,Enterprise Orchestration
+Results of task,12/17/2021,12/31/2021,Technology - Date TBD,Low-Code Dev Tools
+Determine compatible tools,1/1/2021,3/2/2021,Technology - Date TBD,Low-Code Dev Tools
+Identify downfalls of low code platforms,3/3/2021,5/2/2021,Technology - Date TBD,Low-Code Dev Tools
+Estimate adoption rate,5/3/2021,12/31/2021,Technology - Date TBD,Low-Code Dev Tools
+Results of task,12/17/2021,12/31/2021,Technology - Date TBD,FHIR Data Architecture
+Determine the FHIR server architecture,1/1/2021,3/2/2021,Technology - Date TBD,FHIR Data Architecture
+Determine compatibility of servers and FHIR versions to ensure interoperability,3/3/2021,5/2/2021,Technology - Date TBD,FHIR Data Architecture
+Understand the APIs as well as the level of completion per API,5/3/2021,7/2/2021,Technology - Date TBD,FHIR Data Architecture
+Identify where to put/install the FHIR server,7/3/2021,9/1/2021,Technology - Date TBD,FHIR Data Architecture
+Estimate adoption rate,9/2/2021,12/31/2021,Technology - Date TBD,FHIR Data Architecture
+Results of task,12/17/2021,12/31/2021,Process - Date TBD,"Governance Model Dev-Self-Service, Productionization, Lineage"
+"ID priority governance model evaluation needs – self-service, machine learning model productionalization, operational area use and interaction",1/1/2021,12/31/2021,Process - Date TBD,"Governance Model Dev-Self-Service, Productionization, Lineage"
